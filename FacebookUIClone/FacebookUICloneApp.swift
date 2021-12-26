@@ -11,7 +11,7 @@ import SwiftUI
 struct FacebookUICloneApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FeedsView()
         }
     }
 }
